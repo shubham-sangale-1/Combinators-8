@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbox{
+    height: 75px;
+    /* background-color: red; */
+    width: 100%;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    /* background-color: gold; */
+}
+.logo span{
+    background-color: #CAD6EE;
+}
+.links{
+    width: 70%;
+    height: 100%;
+    /* background-color: rebeccapurple ; */
+}
+
+.top-heading h1{
+    font-size: 45px !important;
+    font-weight: 800;
+    color: #6E71CC;
+}
+.footer{
+    height: 108px;
+    width: 100%;
+}
+.footer h1{
+    font-family:sans-serif;
+    font-weight: bolder;
+}
